@@ -1,9 +1,9 @@
 # by 陈冕
 ***
-## 项目源码详情描述： 
-## 《基于Springboot+Mybatis+springsecrity完整网站后台管理系统项目源码》
-## spring security 全注解式的权限管理
-## 动态配置权限，角色和资源，权限控制到按钮粒度
+#### 项目源码详情描述： 
+#### 《基于Springboot+Mybatis+springsecrity完整网站后台管理系统项目源码》
+#### spring security 全注解式的权限管理
+#### 动态配置权限，角色和资源，权限控制到按钮粒度
 ## 采用token进行权限校验，禁用session，未登录返回401，权限不足返回403
 ## 采用redis存储token及权限信息
 ## 内置功能：

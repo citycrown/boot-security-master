@@ -1,5 +1,7 @@
 # boot-security-master
 
+by 陈冕
+
 项目源码详情描述： 
 《基于Springboot+Mybatis+springsecrity完整网站后台管理系统项目源码》
 spring security 全注解式的权限管理
